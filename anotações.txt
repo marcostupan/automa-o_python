@@ -1,0 +1,30 @@
+Arquivo de anotações.
+
+Instalar a bibliotaca pyautogui 
+pip install pyautogui
+
+pip install pandas 
+pip install numpy openyxl
+
+ex: 
+pyautogui.click - clica em algum lugar da tela.
+pyautogui.write - escreve um texto
+pyautogui.press - pressiona uma tecla do teclado
+pyautogui.hotkey("ctrol", "v") - usado para usar mais que uma tecla.
+
+# Passo a Passo do projeto.
+
+# Passo 1: entrar no sistema da empresa.
+# https://dlp.hashtagtreinamentos.com/python/intensivao/login
+
+
+
+# Passo 2: Fazer login
+
+# Passo 3: Importar a base de dados.
+
+# Passo 4: Cadastrar 1 produto.
+
+# Passo 5: Repetir o procecsso de cadastramento, até acabar.
+
+biblioteca pyautogui
